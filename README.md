@@ -74,7 +74,7 @@
 
 ## 🐍 Snake Run (Contribution Animation)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Leng-Senghort/Leng-Senghort/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Leng-Senghort/snake/output/snake.svg" alt="snake animation" />
 </p>
 
 ---
