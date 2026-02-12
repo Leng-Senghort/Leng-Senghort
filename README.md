@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://twitter.com/rolexx_xx" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-111827?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://instagram.com/hxrt_ttt" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -40,7 +40,7 @@
 
 ## 🧰 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,tailwind,bootstrap,git,linux,c,cpp&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,tailwind,bootstrap,git,linux,c,cpp,php,laravel&perline=7" />
 </p>
 
 ---
@@ -83,19 +83,17 @@
 
 ---
 
-<details>
-  <summary><b>🎯 Quotes of the day</b></summary>
-  <br/>
+## 🎯 Quotes of the day
+<br/>
 
-  <p align="center">
-    <!-- Trophy widget commented out due to service outage (503) -->
-    <!-- <img src="https://github-profile-trophy.vercel.app/?username=Leng-Senghort&theme=tokyonight&no-frame=true&row=1&column=6" /> -->
-  </p>
+<p align="center">
+  <!-- Trophy widget commented out due to service outage (503) -->
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=Leng-Senghort&theme=tokyonight&no-frame=true&row=1&column=6" /> -->
+</p>
 
-  <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  </p>
-</details>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
