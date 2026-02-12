@@ -57,12 +57,13 @@
 
 ## 📈 GitHub Commit Overview
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Leng-Senghort&show_icons=true&theme=tokyonight&hide_border=true" />
+  <!-- GitHub Stats & Top Langs commented out due to service outage (503) -->
+  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=Leng-Senghort&show_icons=true&theme=tokyonight&hide_border=true" /> -->
   <img height="170" src="https://streak-stats.demolab.com/?user=Leng-Senghort&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leng-Senghort&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leng-Senghort&layout=compact&theme=tokyonight&hide_border=true" /> -->
 </p>
 
 <p align="center">
@@ -71,7 +72,7 @@
 
 ---
 
-## 🐍
+## 🐍 Contribution Snake
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leng-Senghort/Leng-Senghort/output/snake-dark.svg">
@@ -83,11 +84,12 @@
 ---
 
 <details>
-  <summary><b>🎯</b></summary>
+  <summary><b>🎯 Quotes of the day</b></summary>
   <br/>
 
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Leng-Senghort&theme=tokyonight&no-frame=true&row=1&column=6" />
+    <!-- Trophy widget commented out due to service outage (503) -->
+    <!-- <img src="https://github-profile-trophy.vercel.app/?username=Leng-Senghort&theme=tokyonight&no-frame=true&row=1&column=6" /> -->
   </p>
 
   <p align="center">
