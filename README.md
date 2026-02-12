@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/rolexx_xx" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+   <a href="https://twitter.com/rolexx_xx" target="_blank">
+    <img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://instagram.com/hxrt_ttt" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" />
