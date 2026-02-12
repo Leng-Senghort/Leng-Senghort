@@ -58,8 +58,8 @@
 
 ## 📈 GitHub Commit Overview
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Leng-Senghort&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Leng-Senghort&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Leng-Senghort&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=Leng-Senghort&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -74,7 +74,11 @@
 
 ## 🐍 Snake Run (Contribution Animation)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Leng-Senghort/snake/output/snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leng-Senghort/Leng-Senghort/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leng-Senghort/Leng-Senghort/output/snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Leng-Senghort/Leng-Senghort/output/snake.svg">
+  </picture>
 </p>
 
 ---
