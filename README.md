@@ -45,14 +45,13 @@
 
 ---
 
-## 🚀 Featured Projects (add your best repos)
-> Replace links with your real projects.
+## 🚀 Featured Projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🔥 [E-commerce App](https://github.com/Leng-Senghort) | Full shopping flow + admin | React • Node • MySQL |
-| ⚡ [Portfolio](https://hort-portfolio.site) | Personal website | React • Tailwind |
-| 🧩 [Mini Projects](https://github.com/Leng-Senghort?tab=repositories) | UI + practice builds | HTML • CSS • JS |
+| ⚡ [Portfolio](https://hort-portfolio.site) | Personal website | Next • Tailwind • Framer Motion |
+| 🔥 [SH Computer Gear](https://shcomputergear.vercel.app/) | SH Computer Gear | Next • Tailwind • Framer Motion |
+| 🧩 [Computer Store](https://computer-store-web.vercel.app/) | Computer Store | React • Tailwind • Desktop Only |
 
 ---
 
@@ -72,7 +71,7 @@
 
 ---
 
-## 🐍 Snake Run (Contribution Animation)
+## 🐍
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leng-Senghort/Leng-Senghort/output/snake-dark.svg">
@@ -84,7 +83,7 @@
 ---
 
 <details>
-  <summary><b>🎯 More cool widgets (optional)</b></summary>
+  <summary><b>🎯</b></summary>
   <br/>
 
   <p align="center">
