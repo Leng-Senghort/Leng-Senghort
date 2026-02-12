@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/VnJdpBHSdpcE7Si268WuYuvTs8NmaZTVapQAhkZ9KJs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhPSHBvYzJWNU16/TjVkM0ozWm1sMVl6/WjZOMjk0YXpadmVY/QTNkek14YlRCeWNt/UjZjMnQyT0NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vMTNIZ3dHc1hG/MGFpR1kvMjAwLmdp/Zg.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hortdev&label=Profile%20views&color=0e75b6&style=flat" alt="hortdev" />
+  <img src="https://komarev.com/ghpvc/?username=Leng-Senghort&label=Profile%20views&color=0e75b6&style=flat" alt="Leng-Senghort" />
 </p>
 
 <p align="left">
@@ -89,13 +89,5 @@
 ---
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hortdev&show_icons=true&locale=en&layout=compact" alt="hortdev" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hortdev&show_icons=true&locale=en" alt="hortdev" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hortdev" alt="hortdev" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Leng-Senghort" alt="Leng-Senghort" />
 </p>
