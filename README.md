@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **React JS, Node JS**
 
-- 👨‍💻 All of my projects are available at **https://hort.vercel.app/**
+- 👨‍💻 All of my projects are available at **https://hort-portfolio.site**
 
 - 📫 How to reach me: **hort.webdev@gmail.com**
 
